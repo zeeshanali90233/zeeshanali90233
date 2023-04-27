@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeeshanali90233
-- 👀 I’m interested in developing different tech related projects
+- 👀 I’m a software developer
 - 🌱 I’m a learner
-- 💞️ I’m looking to collaborate on with other Software Engineers or Web Developers
+- 💞️
 - 📫 How to reach me : You can reach me through following:
 -   Email: zeeshanali90233@gmail.com
 -   My Github Profile
