@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 - LinkedIn: [Software Developer @ P2P Clouds | Dean's Academic Award Holder @ UMT](https://www.linkedin.com/in/zeeshanali90233)
 - Twitter: [@zeeshanali90233](https://twitter.com/zeeshanali90233)
-- Email: zeeshan@example.com
+- Email: zeeshanali90233@gmail.com
 
 Feel free to explore my repositories and get in touch. I'm always open to collaboration and sharing knowledge. Let's create amazing things together!
