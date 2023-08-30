@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Zeeshan Ali
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong background in web development, app development, and problem-solving. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate software developer with a strong background in web development, app development, and problem-solving. I have 3+ years development experience and worked in different organizations. Here's a little bit about me(excluding private repos):
 
 ## About Me
 
