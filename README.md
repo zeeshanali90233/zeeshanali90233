@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer & App Developer. I have 3+ years development experience and worked in different organizations. Here's a little bit about me(excluding private repos)</h3>
 <!-- Add Views badge -->
 <p align="center">
-  <img src="[https://img.shields.io/github/followers/zeeshanali90233?label=Views&style=for-the-badge](https://komarev.com/ghpvc/?username=zeeshanali90233)" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
 </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
