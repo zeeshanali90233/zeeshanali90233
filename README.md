@@ -3,6 +3,7 @@
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
+![Joined GitHub](https://img.shields.io/badge/Joined-2020-brightgreen)
 
 </p>
 
