@@ -3,7 +3,9 @@
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
-![Joined GitHub](https://img.shields.io/badge/Joined-2020-brightgreen)
+<span style="background-color: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px;">
+  Joined 2020
+</span>
 
 </p>
 
