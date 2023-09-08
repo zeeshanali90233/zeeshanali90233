@@ -3,7 +3,14 @@
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
+
 </p>
+
+## License
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)  
+
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
 
