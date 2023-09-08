@@ -3,12 +3,12 @@
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
-  <img src="https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github" alt="Views">
 
 
 
 </p>
 
+  <img src="https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github" alt="Views">
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
