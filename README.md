@@ -6,7 +6,7 @@
 
 </p>
 
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
 
