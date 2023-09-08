@@ -3,9 +3,10 @@
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
-<span style="background-color: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px;">
+<span style="background-color: #007BFF; color: white; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
   Joined 2020
 </span>
+
 
 </p>
 
