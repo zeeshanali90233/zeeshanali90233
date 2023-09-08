@@ -3,7 +3,7 @@
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
-![Joined 2020](https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github)
+  <img src="[https://komarev.com/ghpvc/?username=zeeshanali90233](https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github)" alt="Views">
 
 
 
