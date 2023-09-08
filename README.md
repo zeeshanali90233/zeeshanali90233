@@ -5,15 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
 
 </p>
-## License
-[![MIT License](https://img.shields.io/github/license/zeeshanali90233/repo-name)](https://github.com/zeeshanali90233/repo-name/blob/main/LICENSE)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)  
 
-## Commits
-[![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanali90233/repo-name.svg?style=flat)](https://github.com/zeeshanali90233/repo-name/commits/main)
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/zeeshanali90233/repo-name.svg?style=flat)](https://github.com/zeeshanali90233/repo-name/graphs/commit-activity)
-[![GitHub commits since](https://img.shields.io/github/commits-since/zeeshanali90233/repo-name/v1.2.0.svg)](https://github.com/zeeshanali90233/repo-name/commits/main)
 
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
