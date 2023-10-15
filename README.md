@@ -38,5 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanali90233&show_icons=true&locale=en&layout=compact" alt="zeeshanali90233" /></p>
 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=zeeshanali90233&bg_color=ffffff&color=000000&line=000000&point=00FF00" alt="zeeshanali90233" /></p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeeshanali90233)]
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanali90233&" alt="zeeshanali90233" /></p>
