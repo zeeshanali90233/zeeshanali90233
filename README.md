@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
-<h3 align="center">A passionate Full Stack Developer & App Developer, having 3+ years development experience and worked in different organizations. Here's a little bit about me(excluding private repos)</h3>
+<h3 align="center">A passionate Full Stack Web & App Developer from pakistan</h3>
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
