@@ -47,3 +47,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanali90233&" alt="zeeshanali90233" /></p>
 
 <img src="https://raw.githubusercontent.com/zeeshanali90233/zeeshanali90233/output/snake.svg" alt="Snake animation" />
+<div align="center">
+            <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
