@@ -61,8 +61,6 @@
            </div>
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank" style="display: inline-block;">
                 <img
