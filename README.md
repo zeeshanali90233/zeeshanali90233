@@ -19,13 +19,10 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> 🔭 I’m working as Developer in a tech company ...<br>- 📚 I'm currently learning different new emergin technologies like AI...<br>- ⚡ In my free time I do my learnings</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanali90233&theme=alduin" alt="zeeshanali90233"></img> </p>
