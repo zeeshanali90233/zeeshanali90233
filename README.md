@@ -8,6 +8,7 @@
 
 </p>
 
+  <img src="./gitartwork.svg" alt="Views">
   <img src="https://img.shields.io/badge/Joined-2020-blue?style=for-the-badge&logo=github" alt="Views">
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
