@@ -43,6 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanali90233&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+[![Contributions](https://img.shields.io/github/commits/zeeshanali90233/repository/master.svg?style=flat)](https://github.com/zeeshanali90233/repository/graphs/contributors)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanali90233&" alt="zeeshanali90233" /></p>
 
