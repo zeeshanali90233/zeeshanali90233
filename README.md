@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as Developer in a tech company ...<br>- 📚 I'm currently learning different new emergin technologies like AI...<br>- ⚡ In my free time I do my learnings</p>
+<p align="left"> 🔭 I’m working as Developer in a tech company ...<br>- 📚 I'm currently learning different new emerging technologies like AI...<br>- ⚡ In my free time I do my learnings</p>
 
 ###
 
