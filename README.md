@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m working as Software Enginerr @ P2PClouds and Web Instructor @ NexSkill PVT LTD...<br>- 📚 I'm currently learning different emerging technologies...<br>- ⚡ In my free time I do my learnings</p>
+<p align="left"> 🔭 I’m working as Software Engineer @ P2PClouds and Web Instructor @ NexSkill PVT LTD...<br>- 📚 I'm currently learning different emerging technologies...<br>- ⚡ In my free time I do my learnings</p>
 
 ###
 
