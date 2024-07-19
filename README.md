@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
-<h3 align="center">A dedicated Full Stack Web and App Developer, Cloud Practitioner, and Dapps Developer from Pakistan.</h3>
+<h3 align="center">A dedicated Full Stack Web/Mobile App Developer, Cloud Practitioner, Generative AI , Langchain and Dapps Developer from Pakistan.</h3>
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
