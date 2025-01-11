@@ -114,7 +114,7 @@
     <img src="https://cdn.oaistatic.com/assets/favicon-32x32-p4ktpm1x.webp" alt="OpenAI" width="40" height="40"/>
   </a>
   <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dialogflow/dialogflow-icon.svg" alt="Dialogflow" width="40" height="40"/>
+    <img src="https://static.dialogflow.com/common/favicon.png" alt="Dialogflow" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/80549350?s=200&v=4" alt="Pinecone" width="40" height="40"/>
@@ -123,10 +123,10 @@
     <img src="https://avatars.githubusercontent.com/u/120931967" alt="Chroma DB" width="40" height="40"/>
   </a>
   <a href="https://llama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://llama.ai/assets/images/ai_logo.svg" alt="Llama" width="40" height="40"/>
+    <img src="https://static.xx.fbcdn.net/rsrc.php/y5/r/m4nf26cLQxS.ico" alt="Llama" width="40" height="40"/>
   </a>
   <a href="https://gemini.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/dialogflow.svg" alt="Gemini" width="40" height="40"/>
+    <img src="https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png" alt="Gemini" width="40" height="40"/>
   </a>
 
   <!-- Cloud & AWS -->
@@ -137,7 +137,7 @@
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/aws-s3.svg" alt="AWS S3" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="AWS ECS" width="40" height="40"/>
+    <img src="https://docs.aws.amazon.com/assets/r/images/favicon.ico" alt="AWS ECS" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_ec2/amazon_ec2-icon.svg" alt="AWS EC2" width="40" height="40"/>
