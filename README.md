@@ -117,7 +117,7 @@
     <img src="https://www.vectorlogo.zone/logos/dialogflow/dialogflow-icon.svg" alt="Dialogflow" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://pinecone.io/images/logo-dark.svg" alt="Pinecone" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/80549350?s=200&v=4" alt="Pinecone" width="40" height="40"/>
   </a>
   <a href="https://docs.pinecone.io/docs/chroma" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/120931967" alt="Chroma DB" width="40" height="40"/>
@@ -125,7 +125,7 @@
   <a href="https://llama.ai/" target="_blank" rel="noreferrer">
     <img src="https://llama.ai/assets/images/ai_logo.svg" alt="Llama" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com/dialogflow/docs" target="_blank" rel="noreferrer">
+  <a href="https://gemini.cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/dialogflow.svg" alt="Gemini" width="40" height="40"/>
   </a>
 
@@ -159,7 +159,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
+
 </p>
+
 
 
 <br/>
