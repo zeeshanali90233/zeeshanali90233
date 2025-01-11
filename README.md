@@ -86,47 +86,21 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/branding/1e9b5b62/zustand.svg" alt="Zustand" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  </a>
-
-  <!-- Backend Technologies -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/graphql.png" alt="GraphQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://pmndrs.github.io/zustand/logo.svg" alt="Zustand" width="40" height="40"/>
   </a>
 
   <!-- AI & Databases -->
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
   </a>
   <a href="https://dialogflow.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dialogflow/dialogflow-icon.svg" alt="Dialogflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dialogflow_logo.svg" alt="Dialogflow" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/80549350?s=200&v=4" alt="Pinecone" width="40" height="40"/>
   </a>
-  <a href="https://docs.pinecone.io/docs/chroma" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/120931967" alt="Chroma DB" width="40" height="40"/>
-  </a>
   <a href="https://llama.ai/" target="_blank" rel="noreferrer">
-    <img src="https://llama.ai/assets/images/ai_logo.svg" alt="Llama" width="40" height="40"/>
-  </a>
-  <a href="https://gemini.cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/dialogflow.svg" alt="Gemini" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Llama_logo.svg" alt="Llama" width="40" height="40"/>
   </a>
 
   <!-- Cloud & AWS -->
@@ -134,33 +108,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/aws-s3.svg" alt="AWS S3" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS S3" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="AWS ECS" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_ec2/amazon_ec2-icon.svg" alt="AWS EC2" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_ecr/amazon_ecr-icon.svg" alt="AWS ECR" width="40" height="40"/>
   </a>
 
-  <!-- Tools -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-
 </p>
+
 
 
 
