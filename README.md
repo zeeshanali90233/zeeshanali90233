@@ -123,30 +123,30 @@
     <img src="https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png" alt="Gemini" width="40" height="40"/>
   </a>
 
-  <!-- Cloud & AWS -->
-   <!-- AWS -->
+ 
+  <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/favicon.ico" alt="AWS" width="40" height="40"/>
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
   </a>
 
   <!-- AWS S3 -->
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/console-homepage/product-service-icons/S3_64.svg" alt="AWS S3" width="40" height="40"/>
+    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-Simple-Storage-Service.png" alt="AWS S3" width="40" height="40"/>
   </a>
 
   <!-- AWS ECS -->
   <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/console-homepage/product-service-icons/ECS_64.svg" alt="AWS ECS" width="40" height="40"/>
+    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-Elastic-Container-Service.png" alt="AWS ECS" width="40" height="40"/>
   </a>
 
   <!-- AWS EC2 -->
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/console-homepage/product-service-icons/EC2_64.svg" alt="AWS EC2" width="40" height="40"/>
+    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-EC2.png" alt="AWS EC2" width="40" height="40"/>
   </a>
 
   <!-- AWS ECR -->
   <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/console-homepage/product-service-icons/ECR_64.svg" alt="AWS ECR" width="40" height="40"/>
+    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-Elastic-Container-Registry.png" alt="AWS ECR" width="40" height="40"/>
   </a>
   <!-- Tools -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
