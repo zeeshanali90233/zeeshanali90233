@@ -85,9 +85,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/branding/1e9b5b62/zustand.svg" alt="Zustand" width="40" height="40"/>
-  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -126,28 +124,9 @@
  
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon…bservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 
-  <!-- AWS S3 -->
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-Simple-Storage-Service.png" alt="AWS S3" width="40" height="40"/>
-  </a>
-
-  <!-- AWS ECS -->
-  <a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-Elastic-Container-Service.png" alt="AWS ECS" width="40" height="40"/>
-  </a>
-
-  <!-- AWS EC2 -->
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-EC2.png" alt="AWS EC2" width="40" height="40"/>
-  </a>
-
-  <!-- AWS ECR -->
-  <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/diagrams/product-page-diagrams/Product-Page-Diagram_Amazon-Elastic-Container-Registry.png" alt="AWS ECR" width="40" height="40"/>
-  </a>
   <!-- Tools -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
