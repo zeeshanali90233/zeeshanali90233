@@ -1,5 +1,7 @@
+<h1 align="center">Search 'Zeeshan Ali' on Internet</h1>
 <h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
-<h3 align="center">A dedicated Full Stack Web/Mobile App Developer, AI Agent, Generative AI , Dapps Developer from Pakistan.</h3>
+<h3 align="center">A Multi Stack Web/Mobile App Developer, AI, Blockchain Developer from Pakistan.</h3>
+<h4 align="center">Technical Project Manager @ P2P Clouds | Instructor @ NeXskill | Rector's Merit Academic Award Holder @ UMT | Data Scientist | Machine L. | C. Vision | Deep L. | Gen AI. | Blockchain | Dapps</h4>
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
