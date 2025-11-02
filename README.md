@@ -1,7 +1,25 @@
 <h1 align="center">Search 'Zeeshan Ali' on Internet or Visit my <a href="http://zeeshan.p2pclouds.net/" target="_blank">Website</a></h1>
 <h1 align="center">Hi 👋, I'm Zeeshan Ali</h1>
-<h3 align="center">A Multi Stack Web/Mobile App Developer, AI, Blockchain Developer from Pakistan.</h3>
-<h4 align="center">Technical Project Manager @ P2P Clouds | Instructor @ NeXskill | Data Scientist | ML/DL/CV Engineer | Gen AI & Autonomous Agents| Blockchain | Dapps</h4>
+<h3 align="center">
+  A Practical Technologist & Project Lead at <b>P2PClouds</b> with experience across 
+  <b>Pakistan, the USA, and the Middle East</b>.
+</h3>
+
+<h4 align="center">
+  I specialize in <b>AI, Blockchain, Cloud Computing, Web,</b> and <b>Mobile App Development</b>.  
+  Skilled in <b>MERN Stack, Machine Learning, Deep Learning, Generative AI, NLP,</b> and <b>AI Agents</b>.
+</h4>
+
+<h4 align="center">
+  Instructor at <b>NexSkill</b> & <b>Ideoversity</b> — mentoring developers in <b>AI, Blockchain,</b> and <b>Cloud</b>.  
+  Passionate about <b>AI-driven Web Apps, Smart Contracts,</b> and <b>DApps</b>.
+</h4>
+
+<h4 align="center">
+  💡 Open to <b>collaboration, partnerships,</b> and <b>research opportunities</b> in 
+  <b>AI, Blockchain,</b> and <b>Cloud</b>.  
+  📩 <a href="mailto:zeeshanali90233@gmail.com">zeeshanali90233@gmail.com</a>
+</h4>
 <!-- Add Views badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshanali90233" alt="Views">
