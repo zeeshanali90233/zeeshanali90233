@@ -181,6 +181,9 @@
   
 <p><img align="center" src="https://streak-stats.demolab.com/?user=zeeshanali90233" alt="zeeshanali90233" /></p>
            </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zeeshanali90233&theme=dark" alt="zeeshanali90233" />
+</p>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank" style="display: inline-block;">
