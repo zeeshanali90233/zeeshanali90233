@@ -181,7 +181,12 @@
   
 <p><img align="center" src="https://streak-stats.demolab.com/?user=zeeshanali90233" alt="zeeshanali90233" /></p>
            </div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanali90233&theme=dark" alt="Zeeshan's Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanali90233&show_icons=true&theme=radical" alt="Zeeshan's GitHub Stats" />
+</p>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/zeeshanali90233" target="_blank" style="display: inline-block;">
